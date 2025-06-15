@@ -9,8 +9,7 @@ This is a beginner-friendly Event Management System built using **Python**, with
 - 💾 Data saved in a JSON file (`events.json`)
 - 🖥️ User-friendly interface using tkinter
 
-## 🚀 How to Run
-1. Clone the repo or download the code  
-2. Run this command:
-```bash
-python event_manager.py
+🧰 Technologies Used:
+  >Python
+  >tkinter
+  >JSON
